@@ -32,7 +32,7 @@ discordChannelID: 763595674516193306
 
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 # plugins:
 #   - jekyll-feed
 # Exclude from processing.
