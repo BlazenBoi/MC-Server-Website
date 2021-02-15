@@ -11,15 +11,15 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 79.46.31.53:3498
+serverName: Blazen SMP
+serverDescription: Blazen's SMP Minecraft Server where we can have fun!
+serverIP: mc.blazensmp.us.to:55903
 
 
 # Discord information
 discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordServerID: 763595674473726022
+discordChannelID: 763595674516193306
 
 
 # Navbar Links at the top of the page
